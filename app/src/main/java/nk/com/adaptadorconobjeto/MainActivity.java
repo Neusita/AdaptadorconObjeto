@@ -13,6 +13,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
+    
+    //Este es la clase Principal
 
     ListView mLista;
     Adaptador adaptador;
