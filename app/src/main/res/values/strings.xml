@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Adaptador con Objeto</string>
+
+    <string-array name="nombres">
+        <item>Juan</item>
+        <item>Maria</item>
+        <item>Rene</item>
+        <item>Carmen</item>
+        <item>Pedro</item>
+        <item>Katherine</item>
+        <item>Carlos</item>
+    </string-array>
+
+    <string-array name="red">
+        <item>Facebook</item>
+        <item>Whatsapp</item>
+        <item>Telegram</item>
+        <item>Google+</item>
+        <item>Instagram</item>
+        <item>Tinder</item>
+        <item>twiter</item>
+    </string-array>
+</resources>
